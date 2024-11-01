@@ -1,0 +1,1 @@
+# Linear-regression-applied-in-multi-trait-polygenic-scores.
