@@ -21,3 +21,4 @@ The main code is divided into 14 sections to streamline the process of data hand
 - Gaussian Process Regression: Test the second model with Gaussian Process Regression.
   
 This structure allows for a comprehensive exploration of the data and model performance, providing insights into how different regression techniques handle variations in polygenic scores.
+(The original data is not provided)
